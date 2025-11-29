@@ -1,28 +1,34 @@
-# হাই, আমি Md Abdullah Al Kaiyum 👋
+# Hi there, I'm Md Abdullah Al Kaiyum 👋
+**Full-Stack Web Developer in the making** | Dhaka, Bangladesh  
 
-🔭 এখন Full-Stack Web Development শিখতেছি (MERN + Next.js)  
-🌱 বর্তমানে React, Node.js, MongoDB, Tailwind নিয়ে কাজ করি  
-💼 জুনিয়র ডেভেলপার পজিশন ও ফ্রিল্যান্সিং এর জন্য ওপেন  
-📍 Dhaka, Bangladesh  
-🚀 প্রতিদিন একটু একটু করে এগোচ্ছি!
+Currently learning and building with the **MERN stack + Next.js**  
+Open to junior developer roles & freelance projects  
 
-### 🛠 টেক স্ট্যাক
+### 🛠 Tech Stack
 <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="background:#fff;" />
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br><br>
 
-### 🔥 আমার GitHub স্ট্যাটস
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujon9894&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujon9894&layout=compact&theme=tokyonight)
+### 🔥 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujon9894&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/sujon9894)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujon9894&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/sujon9894)
 
-### 📬 যোগাযোগ করো
-- Email: sujon985794@gmail.com  
+### 🌟 Currently
+- Building real-world projects with React & Next.js
+- Exploring backend with Node.js + Express
+- Turning coffee into code ☕ → 💻
+
+### 📬 Let’s connect
+- Email: sujon985794@gmail.com
 
 
-> “কোডিং শিখছি, স্বপ্ন বড় করছি” 🚀
+> *"Learning every day, growing every night."*  
